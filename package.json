@@ -3,7 +3,7 @@
     "private": true,
     "version": "1.0.0",
     "type": "module",
-    "homepage": "https://github.com/maiosha99/CryptoFlow.git",
+    "homepage": "https://github.com/maiosha99/ryptoFlow.git",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
