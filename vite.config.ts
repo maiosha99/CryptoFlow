@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-    base: "/cryptoflow/",
+base: process.env.NODE_ENV === 'production' && !process.env.VERCEL ? '/cryptoflow/' : '/',
   server: {
     host: "::",
     port: 8080,
