@@ -1,9 +1,9 @@
 {
-    "name": "ryptoFlow",
+    "name": "CryptoFlow",
     "private": true,
     "version": "1.0.0",
     "type": "module",
-    "homepage": "https://github.com/maiosha99/ryptoFlow.git",
+    "homepage": "https://github.com/maiosha99/CryptoFlow.git",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
