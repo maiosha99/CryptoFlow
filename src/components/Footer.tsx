@@ -77,7 +77,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
               &copy; {currentYear} CryptoFlow. All rights reserved.
-              ~ Distributed By <a href="https://maimahran99.github.io/Portfolio-/" target="_blank" className="text-crypto-purple hover:underline">mai mahran</a>
+              ~ Distributed By <a href="https://maiosha99.github.io/portfolio/" target="_blank" className="text-crypto-purple hover:underline">mai mahran</a>
             </p>
             <div className="flex space-x-6">
               <a href="#!" className="text-gray-400 hover:text-crypto-purple text-sm transition-colors">Terms of Service</a>
